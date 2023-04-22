@@ -1,0 +1,5 @@
+com\RestAPI\AtDevServicesApplication.class
+com\RestAPI\Repository\StudentRepos.class
+com\RestAPI\entity\Student.class
+com\RestAPI\controller\RestController.class
+com\RestAPI\service\StudentService.class
